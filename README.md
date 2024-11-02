@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is the JAVA Tic-Tac-Toe Project. In this project, users can play the classic Tic-Tac-Toe game on the command line, where two human players can compete, and the board is displayed between turns.
+This is the Java Tic-Tac-Toe Project. In this project, users can play the classic Tic-Tac-Toe game on the command line, where two human players can compete, and the board is displayed between turns.
 
 Additionally, players can enjoy Human vs. AI Mode, choosing between Easy or Hard difficulty levels to play against the computer.
 
@@ -128,7 +128,7 @@ To play this game you need to:
           |  7  |  8  |  9  |
           |_________________|
     ```
-      * The first player to get 3 tokens in a row (up, down, across, or diagonally) wins.
+      * The first player to get 3 sign in a horizontal, vertical, or diagonal row is the winner.
     ```
         INFINITE TIC-TAC-TOE!
 
