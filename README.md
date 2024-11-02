@@ -50,7 +50,7 @@
     * [Live Version](#live-version)
     * [Usage](#usage)
 * [Game Rules](#game-rules)
-* [Contributing](#:handshake:Contributing)
+* [Contributing](#Contributing)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
 
@@ -158,7 +158,7 @@ You can see it working [here](https://replit.com/@salmotiry/Java-Bootcamp-Projec
 
 <!-- Contributing -->
 
-## :handshake: Contributing
+## Contributing
 
 Contributions, issues and feature requests are welcome!
 
