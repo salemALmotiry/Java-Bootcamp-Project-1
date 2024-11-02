@@ -188,6 +188,8 @@ Give a :star: if you like this project!
 [issues-url]: https://github.com/salemALmotiry/Java-Bootcamp-Project-1/graphs/contributors
 [product-screenshot]: images/tic-tac-toe.png
 
+<!-- License -->
+
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
