@@ -34,7 +34,7 @@
     <a href="https://github.com/salemALmotiry/Java-Bootcamp-Project-1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://replit.com/@salmotiry/Java-Bootcamp-Project-1">View Demo</a>
     ·
     <a href="https://github.com/salemALmotiry/Java-Bootcamp-Project-1/issues">Report Bug</a>
     ·
@@ -62,7 +62,8 @@ This is the JAVA Tic-Tac-Toe Project. In this project, users can play the classi
 Additionally, players can enjoy Human vs. AI Mode, choosing between Easy or Hard difficulty levels to play against the computer.
 
 Experience a new twist with INFINITE TIC-TAC-TOE! This mode brings fresh excitement to the game, allowing players to choose between head-to-head matches or competing against an adaptive AI that adjusts its difficulty based on the player's skill level. Say goodbye to endless draws and embrace a unique challenge every time!
-[![Product Name Screen Shot][product-screenshot]](https://repl.it/@AlexandruBangau/tic-toc-toe)
+
+[![Product Name Screen Shot][product-screenshot]](https://replit.com/@salmotiry/Java-Bootcamp-Project-1)
 
 
 ### Built With
