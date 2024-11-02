@@ -2,37 +2,7 @@ import java.util.*;
 
 public class Main {
 
-    public static int [] prints ( ) throws InputMismatchException {
-        Scanner input = new Scanner(System.in);
-        System.out.println("Please wait game initialization...");
-        System.out.println("--------------------------");
-        System.out.println("Game settings.");
-        System.out.println("1 to play one round\n2 to play three rounds");
 
-        int type = input.nextInt();
-        if (type !=1 && type !=2)
-            throw new InputMismatchException();
-        System.out.println("Game type");
-        System.out.println("1 to play original tic tac toc\n" +
-                "2 to play INFINITE TIC-TAC-TOE! (new)");
-        int game = input.nextInt();
-        if ( game !=1 && game !=2)
-            throw new InputMismatchException();
-
-        System.out.println("Game mode.");
-        System.out.println("""
-                1 to play two players
-                2 to play against easy ai
-                3 to play against hard ai.""");
-        int mode = input.nextInt();
-
-        if(mode <1 || mode >3 )
-            throw new InputMismatchException();
-
-
-
-        return new int[]{type,game,mode};
-    }
     public static void main(String[] args) {
 
     try {
@@ -99,6 +69,7 @@ public class Main {
     }
 
     }
+
 
 
     // Essential Game Functions
@@ -571,4 +542,35 @@ public class Main {
     }
 
 
+    public static int [] prints ( ) throws InputMismatchException {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Please wait game initialization...");
+        System.out.println("--------------------------");
+        System.out.println("Game settings.");
+        System.out.println("1 to play one round\n2 to play three rounds");
+
+        int type = input.nextInt();
+        if (type !=1 && type !=2)
+            throw new InputMismatchException();
+        System.out.println("Game type");
+        System.out.println("1 to play original tic tac toc\n" +
+                "2 to play INFINITE TIC-TAC-TOE! (new)");
+        int game = input.nextInt();
+        if ( game !=1 && game !=2)
+            throw new InputMismatchException();
+
+        System.out.println("Game mode.");
+        System.out.println("""
+                1 to play two players
+                2 to play against easy ai
+                3 to play against hard ai.""");
+        int mode = input.nextInt();
+
+        if(mode <1 || mode >3 )
+            throw new InputMismatchException();
+
+
+
+        return new int[]{type,game,mode};
+    }
 }

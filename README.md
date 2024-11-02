@@ -156,6 +156,8 @@ To play this game you need to:
 You can see it working [here](https://replit.com/@salmotiry/Java-Bootcamp-Project-1)
 
 
+<!-- Contributing -->
+
 ## :handshake: Contributing
 
 Contributions, issues and feature requests are welcome!

@@ -35,7 +35,7 @@ public class Calculator {
     public static void main (String[] args ) {
         Scanner input = new Scanner(System.in);
         int choice=1;
-        ArrayList<Float> results = new ArrayList();
+        ArrayList<Float> results = new ArrayList<Float>();
         try {
 
 
@@ -145,8 +145,8 @@ public class Calculator {
     public static int multiplication (int a, int b ) {
         return a * b;
     }
-    public static int division (int a, int b ) {
-        return a / b;
+    public static float division (int a, int b ) {
+        return (float) a / b;
     }
 
     public static int modulo (int a, int b ) {
