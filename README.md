@@ -17,7 +17,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Run on Repl.it](https://replit.com/@salmotiry/Java-Bootcamp-Project-1)](https://replit.com/@salmotiry/Java-Bootcamp-Project-1)
 
 <!-- PROJECT LOGO -->
 <br />
