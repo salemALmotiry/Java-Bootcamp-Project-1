@@ -157,7 +157,7 @@ You can see it working [here](https://replit.com/@salmotiry/Java-Bootcamp-Projec
 
 
 <!-- Contributing -->
-
+## Contributing
 ## :handshake: Contributing
 
 Contributions, issues and feature requests are welcome!
