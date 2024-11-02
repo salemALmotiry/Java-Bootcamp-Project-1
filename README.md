@@ -17,7 +17,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Run on Repl.it](https://repl.it/badge/github/rammazzoti2000/tic-toc-toe)](https://repl.it/@AlexandruBangau/tic-toc-toe)
+[![Run on Repl.it](https://replit.com/@salmotiry/Java-Bootcamp-Project-1)](https://replit.com/@salmotiry/Java-Bootcamp-Project-1)
 
 <!-- PROJECT LOGO -->
 <br />
