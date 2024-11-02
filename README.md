@@ -31,14 +31,11 @@
   <p align="center">
     This project is requirement of the Web application development using Java Spring Boot bootcamps in Tuwaiq Academy!
     <br />
-    <a href="https://github.com/salemALmotiry/Java-Bootcamp--Project-1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="">View Demo</a>
     ·
-    <a href="https://github.com/salemALmotiry/Java-Bootcamp--Project-1/issues">Report Bug</a>
     ·
-    <a href="https://github.com/salemALmotiry/Java-Bootcamp--Project-1/issues">Request Feature</a>
   </p>
 
 
@@ -76,14 +73,11 @@ This project was built using these technologies.
 
 To play this game you need to:
 * have Java installed in your computer
-* [download](https://github.com/SalemAlmotiry/Java-Bootcamp--Project-1/archive/master.zip) or clone this repo:
     - Clone with SSH:
   ```
-    git@github.com:SalemALmotiry/Java-Bootcamp--Project-1
   ```
     - Clone with HTTPS
   ```
-    https://github.com/SalemALmotiry/Java-Bootcamp--Project-1.git
   ```
 * and execute src/main.java file using your terminal
 
@@ -159,7 +153,6 @@ You can see it working [here](https://tic-toc-toe.rammazzoti2000.repl.run/)
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/salemALmotiry/Java-Bootcamp--Project-1/issues).
 
 ## Show your support
 
@@ -175,14 +168,6 @@ Give a :star: if you like this project!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/salemALmotiry/Java-Bootcamp--Project-1.svg?style=flat-square
-[contributors-url]: https://github.com/salemALmotiry/Java-Bootcamp--Project-1/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/salemALmotiry/Java-Bootcamp--Project-1.svg?style=flat-square
-[forks-url]: https://github.com/salemALmotiry/Java-Bootcamp--Project-1/network/members
-[stars-shield]: https://img.shields.io/github/stars/salemALmotiry/Java-Bootcamp--Project-1.svg?style=flat-square
-[stars-url]: https://github.com/salemALmotiry/Java-Bootcamp--Project-1/stargazers
-[issues-shield]: https://img.shields.io/github/issues/salemALmotiry/Java-Bootcamp--Project-1.svg?style=flat-square
-[issues-url]: salemALmotiry/Java-Bootcamp--Project-1/issues
 [product-screenshot]: images/tic_tac_toc.png
 
 ## 📝 License
