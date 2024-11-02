@@ -23,7 +23,7 @@
 <br />
 <p align="center">
   <a href="">
-<img src="images/tuwaiq.png" alt="logo" width="152" height="32">
+<img src="images/tuwaiq.png" alt="logo" width="152" height="100">
   </a>
  
 <h3 align="center">Tic Tac Toe</h3>
