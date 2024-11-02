@@ -25,7 +25,7 @@
   <a href="">
 <img src="images/tuwaiq.png" alt="Logo" width="80" height="80" style="background-color: white; padding: 10px; border-radius: 5px;">
   </a>
-
+ 
 <h3 align="center">Tic Tac Toe</h3>
 
   <p align="center">
@@ -176,13 +176,13 @@ Give a :star: if you like this project!
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/salemALmotiry/Java-Bootcamp-Project-1.svg?style=flat-square
-[contributors-url]: https://github.com/salemALmotiry/Java-Bootcamp-Project-1/graphs/contributors
+[contributors-url]:https://github.com/salemALmotiry/Java-Bootcamp-Project-1/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/salemALmotiry/Java-Bootcamp-Project-1.svg?style=flat-square
 [forks-url]: https://github.com/salemALmotiry/Java-Bootcamp-Project-1/network/members
 [stars-shield]: https://img.shields.io/github/stars/salemALmotiry/Java-Bootcamp-Project-1.svg?style=flat-square
 [stars-url]: https://github.com/salemALmotiry/Java-Bootcamp-Project-1/stargazers
 [issues-shield]: https://img.shields.io/github/issues/salemALmotiry/Java-Bootcamp-Project-1.svg?style=flat-square
-[issues-url]: salemALmotiry/Java-Bootcamp-Project-1/issues
+[issues-url]: https://github.com/salemALmotiry/Java-Bootcamp-Project-1/graphs/contributors
 [product-screenshot]: images/tic_tac_toc.png
 
 ## 📝 License
