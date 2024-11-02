@@ -23,7 +23,7 @@
 <br />
 <p align="center">
   <a href="">
-<img src="images/tuwaiq.png" alt="Logo" width="80" height="80" style="background-color: white; padding: 10px; border-radius: 5px;">
+<img src="images/tuwaiq.png" alt="logo" width="152" height="32">
   </a>
  
 <h3 align="center">Tic Tac Toe</h3>
@@ -153,7 +153,7 @@ To play this game you need to:
 <!-- LIVE VERSION -->
 ## Live version
 
-You can see it working [here](https://tic-toc-toe.rammazzoti2000.repl.run/)
+You can see it working [here](https://replit.com/@salmotiry/Java-Bootcamp-Project-1)
 
 
 ## :handshake: Contributing
@@ -184,7 +184,7 @@ Give a :star: if you like this project!
 [stars-url]: https://github.com/salemALmotiry/Java-Bootcamp-Project-1/stargazers
 [issues-shield]: https://img.shields.io/github/issues/salemALmotiry/Java-Bootcamp-Project-1.svg?style=flat-square
 [issues-url]: https://github.com/salemALmotiry/Java-Bootcamp-Project-1/graphs/contributors
-[product-screenshot]: images/tic_tac_toc.png
+[product-screenshot]: images/tic-tac-toe.png
 
 ## 📝 License
 
